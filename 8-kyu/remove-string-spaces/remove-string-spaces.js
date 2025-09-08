@@ -1,4 +1,4 @@
 function noSpace(x) {
-  return x.trim().split(" ").join("");
+  return x.split(" ").join("");
 }
 ​
